@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733331 67.733331"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="1F974_plain.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="230.82018"
+     inkscape:cy="81.539243"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-object-midpoints="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Dexterux</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Dexterux</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path833"
+       cx="33.866665"
+       cy="33.866665"
+       rx="25.135416"
+       ry="25.135418" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path1442-3-3"
+       d="m 37.522899,17.565194 c 5.899401,0.893188 9.589444,1.326979 10.931638,4.57773"
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.66663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path1442-3-3-6"
+       d="m 30.210431,20.053553 c -2.758984,2.764075 -7.38447,4.200126 -10.931638,4.57773"
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.66663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000" />
+    <path
+       id="path835"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:3.84616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 93.785156 99.728516 A 17.857142 17.857142 0 0 0 75.927734 117.58594 A 17.857142 17.857142 0 0 0 80.876953 129.92578 A 25.938363 25.938363 0 0 1 99.341797 122.20508 A 25.938363 25.938363 0 0 1 110.21094 124.59375 A 17.857142 17.857142 0 0 0 111.64258 117.58594 A 17.857142 17.857142 0 0 0 93.785156 99.728516 z M 88.482422 105.44336 A 7.1428558 7.1428558 0 0 1 95.625 112.58594 A 7.1428558 7.1428558 0 0 1 88.482422 119.72852 A 7.1428558 7.1428558 0 0 1 81.339844 112.58594 A 7.1428558 7.1428558 0 0 1 88.482422 105.44336 z "
+       transform="scale(0.26458332)" />
+    <path
+       id="path835-3"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:3.84616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 162.21484 89.142578 A 17.857142 17.857142 0 0 0 144.35742 107 A 17.857142 17.857142 0 0 0 162.21484 124.85742 A 17.857142 17.857142 0 0 0 180.07227 107 A 17.857142 17.857142 0 0 0 162.21484 89.142578 z M 167.01172 94.857422 A 7.1428558 7.1428558 0 0 1 174.15625 102 A 7.1428558 7.1428558 0 0 1 167.01172 109.14258 A 7.1428558 7.1428558 0 0 1 159.86914 102 A 7.1428558 7.1428558 0 0 1 167.01172 94.857422 z "
+       transform="scale(0.26458332)" />
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+       d="m 19.901864,42.619581 c 1.819504,2.65184 4.651421,2.806688 6.30741,2.574137 3.034446,-0.426128 3.935923,1.804658 6.032077,1.682907 2.096158,-0.12175 2.5316,-4.1456 5.586,-5.119607 3.054397,-0.974005 4.148179,1.34772 6.366569,1.34772 2.151574,0 3.637545,-2.952791 3.637545,-2.952791"
+       id="path914"
+       sodipodi:nodetypes="cssssc" />
+  </g>
+</svg>

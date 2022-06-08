@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733331 67.733331"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="1F92A.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-367.92763"
+     inkscape:cy="2.3332658"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-object-midpoints="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Dexterux</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Dexterux</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       transform="rotate(-30)"
+       ry="25.135418"
+       rx="25.135416"
+       cy="46.262726"
+       cx="12.39606"
+       id="path833"
+       style="fill:#ffe666;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g871-4"
+       transform="matrix(1.2295011,-0.7098528,0.7098528,1.2295011,-22.297287,14.644178)"
+       style="fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.49092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <circle
+         r="4.7247019"
+         cy="27.59226"
+         cx="33.866665"
+         id="path835-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.49092;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.49092;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path835-7-5"
+         cx="33.866665"
+         cy="27.59226"
+         r="2.2640579" />
+    </g>
+    <g
+       style="fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.12636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(-0.86207766,0.49772077,0.49772077,0.86207766,38.711273,-7.0617357)"
+       id="g871-4-6">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.12636;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path835-3-4"
+         cx="33.866665"
+         cy="27.59226"
+         r="4.7247019" />
+      <circle
+         r="1.9955645"
+         cy="27.59226"
+         cx="33.866665"
+         id="path835-7-5-3"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.12636;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       id="path902-3"
+       style="fill:#795353;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 25.144597,44.973712 c 0,0 6.769106,8.218699 16.811034,2.420989 10.041929,-5.79771 6.308882,-15.769278 6.308882,-15.769278 0,0 -6.017797,4.73367 -11.014669,7.618615 -4.996878,2.884949 -12.105247,5.729674 -12.105247,5.729674 z"
+       sodipodi:nodetypes="czczc" />
+    <g
+       transform="matrix(1,0,0,1.6929647,-2.1867941,-18.427755)"
+       id="g900-7"
+       style="stroke-width:2.11667;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path902-3-6"
+       style="fill:#e93030;fill-opacity:1;stroke:#8b0f0f;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 28.88095,47.906646 v 7.478741 c 0,3.32831 2.714424,6.266802 6.290056,6.266799 3.575632,0 6.290056,-2.938489 6.290056,-6.266799 V 41.492178"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#b71515;stroke-width:2.11666;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 35.274948,44.107691 c 0,11.5865 0,11.5865 0,11.5865"
+       id="path1595" />
+    <path
+       id="path902-3-0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 25.144604,44.973906 c 0,0 1.351167,1.635367 3.736346,2.93274 2.328698,-0.980445 7.029733,-3.03586 10.652841,-5.127663 3.423937,-1.976811 7.282179,-4.79044 9.400286,-6.385571 0.08284,-2.74782 -0.669579,-4.767783 -0.669579,-4.767783 0,0 -6.017666,4.733356 -11.014533,7.618298 -4.996875,2.884948 -12.105361,5.729979 -12.105361,5.729979 z" />
+  </g>
+</svg>

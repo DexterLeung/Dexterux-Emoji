@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733331 67.733331"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="1F635_200D_1F4AB_plain.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="198.96307"
+     inkscape:cy="127.70372"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-object-midpoints="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Dexterux</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Dexterux</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path833"
+       cx="-33.866665"
+       cy="33.866665"
+       rx="25.135416"
+       ry="25.135418"
+       transform="scale(-1,1)" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:2.58716;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1033"
+       sodipodi:cx="70.625969"
+       sodipodi:cy="27.996481"
+       sodipodi:expansion="1"
+       sodipodi:revolution="1.9504607"
+       sodipodi:radius="9.8093653"
+       sodipodi:argument="-18.014692"
+       sodipodi:t0="0.20958845"
+       d="m 68.640093,27.464367 c -0.173942,-1.582555 1.391905,-2.704175 2.843407,-2.668233 2.24802,0.05566 3.745269,2.26308 3.557288,4.383295 -0.257895,2.908765 -3.137813,4.797212 -5.923185,4.446343 -3.56907,-0.44959 -5.854236,-4.013888 -5.335397,-7.463074 0.636218,-4.229511 4.890638,-6.914056 9.002963,-6.224452 4.890148,0.820039 7.975578,5.767789 7.113507,10.542852 -0.150998,0.836385 -0.413893,1.651965 -0.777548,2.420066"
+       transform="matrix(0.82000861,0,0,0.81628201,-15.634369,6.572458)" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:2.58716;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1033-2"
+       sodipodi:cx="70.625969"
+       sodipodi:cy="27.996481"
+       sodipodi:expansion="1"
+       sodipodi:revolution="1.9504607"
+       sodipodi:radius="9.8093653"
+       sodipodi:argument="-18.014692"
+       sodipodi:t0="0.20958845"
+       transform="matrix(-0.82000861,0,0,0.81628201,83.367699,6.5724584)"
+       d="m 68.640093,27.464367 c -0.173942,-1.582555 1.391905,-2.704175 2.843407,-2.668233 2.24802,0.05566 3.745269,2.26308 3.557288,4.383295 -0.257895,2.908765 -3.137813,4.797212 -5.923185,4.446343 -3.56907,-0.44959 -5.854236,-4.013888 -5.335397,-7.463074 0.636218,-4.229511 4.890638,-6.914056 9.002963,-6.224452 4.890148,0.820039 7.975578,5.767789 7.113507,10.542852 -0.150998,0.836385 -0.413893,1.651965 -0.777548,2.420066" />
+    <path
+       id="path1055-0"
+       style="fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 45.878872,46.025791 c -3.49628,-3.496278 -5.009575,-1.937128 -6.946703,0 -2.454963,2.454963 -2.271791,0 -5.065504,0 -2.793714,0 -2.610543,2.454963 -5.065505,0 -1.937129,-1.937128 -3.450424,-3.496278 -6.946703,0"
+       sodipodi:nodetypes="cscsc" />
+  </g>
+</svg>
