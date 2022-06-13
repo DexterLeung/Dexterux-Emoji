@@ -17,7 +17,6 @@
             .icons .icon {
                 width: 1em;
                 aspect-ratio: 1/1;
-                pointer-events: none;
             }
         </style>
     </head>
@@ -54,7 +53,7 @@
                 "1F622", "1F62D", "1F631", "1F616", "1F623",
                 "1F61E", "1F613", "1F629", "1F62B", "1F971",
                 "1F624", "1F621", "1F620", "1F92C", "1F608", "1F47F",
-                "1F921",
+                "1F921", "1F480", "2620", "1F4A9",
             ];
             let size = 3;
 
@@ -67,6 +66,7 @@
                     img.src = "./icons/" + icon + (bw ? "_plain" : "") + ".svg"
                     img.classList.add('icon');
                     img.title = icon;
+                    img.draggable = false;
                     document.getElementById("icons").append(img);
                 }
             }
